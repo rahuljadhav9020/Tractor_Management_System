@@ -1,0 +1,1 @@
+This platform keep all the records of trips and bills of the tractor that the trips are local and rental. Useful mobile application for the owner of the vehicle to keep records of payments or trips anywhere, anytime.
